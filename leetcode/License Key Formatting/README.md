@@ -1,0 +1,1 @@
+[PROBLEM](https://leetcode.com/problems/license-key-formatting/)
