@@ -14,3 +14,4 @@
 - ### [String to Integer](https://github.com/dgpluks/problemas_resolvidos/tree/main/leetcode/String%20to%20Integer)
 - ### [Two Sum](https://github.com/dgpluks/problemas_resolvidos/tree/main/leetcode/Two%20Sum)
 - ### [Valid Anagram](https://github.com/dgpluks/problemas_resolvidos/tree/main/leetcode/Valid%20Anagram)
+- ### [3100. Water Bottles II](https://github.com/dgpluks/problemas_resolvidos/tree/main/leetcode/3100.WaterBottlesII)
