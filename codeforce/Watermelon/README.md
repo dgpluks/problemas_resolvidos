@@ -1,1 +1,1 @@
-[PROBLEM](https://codeforces.com/problemset/problem/1788/B)
+[PROBLEM](https://codeforces.com/problemset/problem/4/A)
