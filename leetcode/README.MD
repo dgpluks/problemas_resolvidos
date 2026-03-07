@@ -35,6 +35,7 @@
 
 ## HARD
 
+- ### [Median of Two Sorted Arrays](https://github.com/dgpluks/problemas_resolvidos/tree/main/leetcode/Median_of_Two_Sorted_Arrays)
         
 
 
