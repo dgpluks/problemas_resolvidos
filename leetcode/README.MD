@@ -1,6 +1,7 @@
 # ✍️ Solved Leetcode problemas #
 
-    ## EASY
+
+## EASY
         
 - ### [Two Sum](https://github.com/dgpluks/problemas_resolvidos/tree/main/leetcode/Two%20Sum)
 - ### [Climbing Stairs](https://github.com/dgpluks/problemas_resolvidos/tree/main/leetcode/Climbing%20Stairs)
@@ -17,18 +18,18 @@
 - ### [Long Pressed Name](https://github.com/dgpluks/problemas_resolvidos/tree/main/leetcode/Long%20Pressed%20Name)
 - ### [Water Bottles](https://github.com/dgpluks/problemas_resolvidos/tree/main/leetcode/Water%20Bottles)
 
-    ## MEDIUM
+## MEDIUM
 
     
 - ### [Add Two Numbers](https://github.com/dgpluks/problemas_resolvidos/tree/main/leetcode/Add_Two_Numbers)
 - ### [String to Integer](https://github.com/dgpluks/problemas_resolvidos/tree/main/leetcode/String%20to%20Integer)
 - ### [Integer to Roman](https://github.com/dgpluks/problemas_resolvidos/tree/main/leetcode/Integer%20to%20Roman)
- - ### [Water Bottles II](https://github.com/dgpluks/problemas_resolvidos/tree/main/leetcode/3100.WaterBottlesII)
+- ### [Water Bottles II](https://github.com/dgpluks/problemas_resolvidos/tree/main/leetcode/3100.WaterBottlesII)
 
 
 
 
-    ## HARD
+## HARD
 
         
 
