@@ -1,8 +1,10 @@
 # ✍️ Solved Leetcode problemas #
 
+- ### [Add Two Numbers](https://github.com/dgpluks/problemas_resolvidos/tree/main/leetcode/Add_Two_Numbers)
 - ### [Climbing Stairs](https://github.com/dgpluks/problemas_resolvidos/tree/main/leetcode/Climbing%20Stairs)
 - ### [Divisible and Non-divisible Sums Difference](https://github.com/dgpluks/problemas_resolvidos/tree/main/leetcode/Divisible%20and%20Non-divisible%20Sums%20Difference)
 - ### [Integer to Roman](https://github.com/dgpluks/problemas_resolvidos/tree/main/leetcode/Integer%20to%20Roman)
+- ### [Keep Multiplying Found Values by Two](https://github.com/dgpluks/problemas_resolvidos/tree/main/leetcode/Keep_Multiplying_Found%20_Values_by_Two)
 - ### [Largest Perimeter Triangle](https://github.com/dgpluks/problemas_resolvidos/tree/main/leetcode/Largest%20Perimeter%20Triangle)
 - ### [License Key Formatting](https://github.com/dgpluks/problemas_resolvidos/tree/main/leetcode/License%20Key%20Formatting)
 - ### [Long Pressed Name](https://github.com/dgpluks/problemas_resolvidos/tree/main/leetcode/Long%20Pressed%20Name)
@@ -14,4 +16,5 @@
 - ### [String to Integer](https://github.com/dgpluks/problemas_resolvidos/tree/main/leetcode/String%20to%20Integer)
 - ### [Two Sum](https://github.com/dgpluks/problemas_resolvidos/tree/main/leetcode/Two%20Sum)
 - ### [Valid Anagram](https://github.com/dgpluks/problemas_resolvidos/tree/main/leetcode/Valid%20Anagram)
-- ### [3100. Water Bottles II](https://github.com/dgpluks/problemas_resolvidos/tree/main/leetcode/3100.WaterBottlesII)
+- ### [Water Bottles](https://github.com/dgpluks/problemas_resolvidos/tree/main/leetcode/Water%20Bottles)
+- ### [Water Bottles II](https://github.com/dgpluks/problemas_resolvidos/tree/main/leetcode/3100.WaterBottlesII)
