@@ -20,6 +20,7 @@
 - ### [Largest Triangle Area](https://github.com/dgpluks/problemas_resolvidos/tree/main/leetcode/Largest_Triangle_Area)
 - ### [Delete Columns to Make Sorted](https://github.com/dgpluks/problemas_resolvidos/tree/main/leetcode/Delete_Columns_to_Make_Sorted)
 - ### [Check If All 1's Are at Least Length K Places Away](https://github.com/dgpluks/problemas_resolvidos/tree/main/leetcode/Check_If_All_1's_Are_at_Least_Length_K_Places_Away)
+- ### [Check if Binary String Has at Most One Segment of Ones](https://github.com/dgpluks/problemas_resolvidos/tree/main/leetcode/Check_if_Binary_String_Has_at_Most_One_Segment_of_Ones)
 
 ## MEDIUM
 
