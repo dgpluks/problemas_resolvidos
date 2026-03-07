@@ -1,10 +1,10 @@
 # ✍️ Solved Leetcode problemas #
 
-##EASY
+## EASY
 
-##MEDIUM
+## MEDIUM
 
-##HARD
+## HARD
 
 - ### [Add Two Numbers](https://github.com/dgpluks/problemas_resolvidos/tree/main/leetcode/Add_Two_Numbers)
 - ### [Climbing Stairs](https://github.com/dgpluks/problemas_resolvidos/tree/main/leetcode/Climbing%20Stairs)
