@@ -18,6 +18,7 @@
 - ### [Long Pressed Name](https://github.com/dgpluks/problemas_resolvidos/tree/main/leetcode/Long%20Pressed%20Name)
 - ### [Water Bottles](https://github.com/dgpluks/problemas_resolvidos/tree/main/leetcode/Water%20Bottles)
 - ### [Largest Triangle Area](https://github.com/dgpluks/problemas_resolvidos/tree/main/leetcode/Largest_Triangle_Area)
+- ### [Delete Columns to Make Sorted](https://github.com/dgpluks/problemas_resolvidos/tree/main/leetcode/Delete_Columns_to_Make_Sorted)
 
 ## MEDIUM
 
