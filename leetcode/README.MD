@@ -17,6 +17,7 @@
 - ### [Largest Perimeter Triangle](https://github.com/dgpluks/problemas_resolvidos/tree/main/leetcode/Largest%20Perimeter%20Triangle)
 - ### [Long Pressed Name](https://github.com/dgpluks/problemas_resolvidos/tree/main/leetcode/Long%20Pressed%20Name)
 - ### [Water Bottles](https://github.com/dgpluks/problemas_resolvidos/tree/main/leetcode/Water%20Bottles)
+- ### [Largest Triangle Area](https://github.com/dgpluks/problemas_resolvidos/tree/main/leetcode/Largest_Triangle_Area)
 
 ## MEDIUM
 
