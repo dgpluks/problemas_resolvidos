@@ -29,6 +29,7 @@
 - ### [String to Integer](https://github.com/dgpluks/problemas_resolvidos/tree/main/leetcode/String%20to%20Integer)
 - ### [Integer to Roman](https://github.com/dgpluks/problemas_resolvidos/tree/main/leetcode/Integer%20to%20Roman)
 - ### [Water Bottles II](https://github.com/dgpluks/problemas_resolvidos/tree/main/leetcode/3100.WaterBottlesII)
+- ### [Equal Sum Grid Partition I](https://github.com/dgpluks/problemas_resolvidos/tree/main/leetcode/Equal%20Sum%20Grid%20Partition%20I)
 
 
 
