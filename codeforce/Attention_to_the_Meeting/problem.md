@@ -1,0 +1,1 @@
+- # [Problem](https://codeforces.com/gym/105327/problem/A)
