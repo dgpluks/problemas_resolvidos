@@ -1,5 +1,6 @@
 # ✍️ Solved code forces problemas #
 
+- ### [Amusement_Park_Adventur](https://github.com/dgpluks/problemas_resolvidos/tree/main/codeforce/Amusement_Park_Adventure)
 - ### [Attention_to_the_Meeting](https://github.com/dgpluks/problemas_resolvidos/tree/main/codeforce/Attention_to_the_Meeting)
 - ### [Bealtiful_Matriz](https://github.com/dgpluks/problemas_resolvidos/tree/main/codeforce/Beautiful_Matrix)
 - ### [Bit++](https://github.com/dgpluks/problemas_resolvidos/tree/main/codeforce/Bit%2B%2B)
